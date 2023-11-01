@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://52chinaweb.com/">
-    ![blog-pwa-512x512](https://github.com/ChangJun2019/ChangJun2019/assets/32004895/c2351ae2-b685-4a1f-bb77-19ae6d2bfde2)
+    <img width="128" height="128"  src="https://github.com/ChangJun2019/ChangJun2019/assets/32004895/c2351ae2-b685-4a1f-bb77-19ae6d2bfde2"></img>
   </a>
 </p>
 
