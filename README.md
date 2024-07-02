@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://52chinaweb.com/">
+  <a href="https://www.changjun.me/">
     <img width="128" height="128"  src="https://github.com/ChangJun2019/ChangJun2019/assets/32004895/c2351ae2-b685-4a1f-bb77-19ae6d2bfde2"></img>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://52chinaweb.com/">
+  <a href="https://www.changjun.me/">
     <img width="48" height="32" src="https://api.iconify.design/carbon:blog.svg?color=%23888888" alt="My Blog" title="My Blog"></img>
   </a>
   <a href="https://www.weibo.com/u/5484931522">
@@ -14,7 +14,7 @@
   <a href="https://twitter.com/52chinaweb">
     <img width="48" height="32" src="https://api.iconify.design/cib:twitter.svg?color=%23888888" alt="Twitter" title="My Twitter"></img>
   </a>
-  <a href="https://www.52chinaweb.com/life/">
+  <a href="https://www.changjun.me/life/">
     <img width="48" height="32" src="https://api.iconify.design/line-md:moon-filled-alt-loop.svg?color=%23888888" alt="Listify" title="My Listify"></img>
   </a>
   <a href="mailto:52chinaweb@gmail.com">
